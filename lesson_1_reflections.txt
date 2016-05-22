@@ -1,8 +1,7 @@
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
-You can quickly see the difference in the line and figure out what the bug may be.
+
 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
-you can see a history of errors. In the future you can be on the lookout for these and bypass them.
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 
@@ -11,12 +10,10 @@ Why do you think some version control systems, like Git, allow saving multiple f
 How can you use the commands git log and git diff to view the history of files?
 
 How might using version control make you more confident to make changes that could break something?
-You can always revert back.
 
 Reflect: How Do You Want to Use Git?
 
-Go add the following question and your thoughts on it to your reflections file:
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-When you've updated your document, click "Next" and we'll wrap up the lesson.
+
